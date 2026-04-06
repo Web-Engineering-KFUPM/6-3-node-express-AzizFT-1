@@ -11,11 +11,10 @@ const PORT = 3000;
 
 // TODO 4: Import and Apply CORS middleware
 app.use(cors());
-
+    
 
 
 // TODO 5: Import and apply Morgan middleware
-app.use(morgan("dev"));
 
 
 
