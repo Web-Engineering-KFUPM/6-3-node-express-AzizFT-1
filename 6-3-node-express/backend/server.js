@@ -1,5 +1,6 @@
 // TODO 1: Import and Create express app instance
 import express from "express";
+import cors from "cors";
 
 
 // TODO 1: Define server port
